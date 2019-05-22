@@ -1,6 +1,8 @@
 # Repo Intro
 This repo is a copy of deep points consolidation from Shihao Wu.  
 
+<img src="https://github.com/peiyi-li/DeepPointsConsolidation/blob/master/abstract.png" />
+
 For original code and data, please consult author's homepage:  
 http://shihaowu.net/  
 code  
